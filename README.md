@@ -1,2 +1,2 @@
-# Load a srt file and save data to databse
+# Load a srt file and save data traduced to databse
 
